@@ -29,3 +29,5 @@ Step 3: After opening the project in Android Studio, head over to the pubspec.ya
 Executing pub get will install all the dependencies of the project in your system. 
 
 Step 4: After getting the dependencies, run the main.dart file by first opening the emulator. 
+
+Please follow these steps to set up the project in your system. 
